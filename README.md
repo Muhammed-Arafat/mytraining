@@ -1,0 +1,2 @@
+# mytraining
+for training course
